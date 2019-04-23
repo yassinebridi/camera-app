@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/camera-app/static/css/main.1492d546.chunk.css",
+    "main.js": "/camera-app/static/js/main.1083e33a.chunk.js",
+    "main.js.map": "/camera-app/static/js/main.1083e33a.chunk.js.map",
+    "runtime~main.js": "/camera-app/static/js/runtime~main.0cd7a794.js",
+    "runtime~main.js.map": "/camera-app/static/js/runtime~main.0cd7a794.js.map",
+    "static/js/2.6b34cb44.chunk.js": "/camera-app/static/js/2.6b34cb44.chunk.js",
+    "static/js/2.6b34cb44.chunk.js.map": "/camera-app/static/js/2.6b34cb44.chunk.js.map",
+    "index.html": "/camera-app/index.html",
+    "precache-manifest.10aab42927d147bd9f3aa98bb9b0286d.js": "/camera-app/precache-manifest.10aab42927d147bd9f3aa98bb9b0286d.js",
+    "service-worker.js": "/camera-app/service-worker.js",
+    "static/css/main.1492d546.chunk.css.map": "/camera-app/static/css/main.1492d546.chunk.css.map"
+  }
+}
